@@ -1,6 +1,8 @@
 ### About me
 I'm a student and I develop Discord BOTs and web applications.
+
 I also operate a Discord BOT on my home server.
+
 There's still a lot I don't know about server operation, but I look forward to working with you.
 
 ### Languages
