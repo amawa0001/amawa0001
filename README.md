@@ -6,7 +6,7 @@ I also operate a Discord BOT on my home server.
 There's still a lot I don't know about server operation, but I look forward to working with you.
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=discordjs,html,java,js,nodejs,php" />
+<img src="https://skillicons.dev/icons?i=discordjs,html,java,js,nodejs,nextjs,py,c," />
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=blender,cloudflare,discord,git,github,grafana,twitter,visualstudio,vscode,wordpress" />
